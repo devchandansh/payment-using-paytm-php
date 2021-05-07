@@ -45,8 +45,8 @@ if (PAYTM_ENVIRONMENT == 'PROD') {
 	$PAYTM_TXN_URL='https://securegw.paytm.in/theia/processTransaction';
 
 	//Change this constant's value with Merchant key received from Paytm.
-	$PAYTM_MERCHANT_MID 		= "ENTER_YOUR_MERCHANT_ID";
-	$PAYTM_MERCHANT_KEY 		= "ENTER_YOUR_MERCHANT_KEY";
+	$PAYTM_MERCHANT_MID 		= "yXfvRV49147935516611";
+	$PAYTM_MERCHANT_KEY 		= "etN%7axAfa%GkR2I";
 
 	$PAYTM_CHANNEL_ID 	= "WEB";
 	$PAYTM_INDUSTRY_TYPE_ID = "";
@@ -61,8 +61,8 @@ if (PAYTM_ENVIRONMENT == 'PROD') {
 	$PAYTM_TXN_URL='https://securegw-stage.paytm.in/theia/processTransaction';
 
 	//Change this constant's value with Merchant key received from Paytm.
-	$PAYTM_MERCHANT_MID 		= "ENTER_YOUR_MERCHANT_ID";
-	$PAYTM_MERCHANT_KEY 		= "ENTER_YOUR_MERCHANT_KEY";
+	$PAYTM_MERCHANT_MID 		= "yXfvRV49147935516611";
+	$PAYTM_MERCHANT_KEY 		= "etN%7axAfa%GkR2I";
 
 	$PAYTM_CHANNEL_ID 		= "WEB";
 	$PAYTM_INDUSTRY_TYPE_ID = "Retail";
