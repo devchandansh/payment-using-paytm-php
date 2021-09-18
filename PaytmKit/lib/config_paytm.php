@@ -6,7 +6,6 @@
 *|	@Author : Chandan Sharma 											|
 *|	@Email: <devchandansh@gmail.com>									|
 *|	@Website: <www.chandansharma.co.in>									|
-*|	@Authorized Member: <www.stackofcodes.in>							|
 *|======================================================================|
 */
 
